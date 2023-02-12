@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis projects</h2>
 
 - <b>Data Analysis and visualisation in Python</b>
-  - [Classification and Predictive Analysis of Road Accident Severity](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Classification and Predictive Analysis of Road Accident Severity](https://github.com/ManushaGadde/Classification-and-predictive-analysis-of-road-accidents-severity)
 - <b> Data Analysis in Sql with Data visualisation in Tableau</b>
   - [Deaths in heart failure and its contributing factors](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>R studio</b>
