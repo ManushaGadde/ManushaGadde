@@ -7,7 +7,7 @@
 - <b> Data Analysis in Sql with Data visualisation in Tableau</b>
   - [Deaths in heart failure and its contributing factors](https://github.com/ManushaGadde/Relation-database) 
 - <b>R studio</b>
-  - [Predictive analysis of health care devices based on physical activity](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Predictive analysis of health care devices based on physical activity](https://github.com/ManushaGadde/Predictive-analysis-of-health-care-devices-based-on-physical-activity)
 
 
 
