@@ -5,7 +5,7 @@
 - <b>Data Analysis and visualisation in Python</b>
   - [Classification and Predictive Analysis of Road Accident Severity](https://github.com/ManushaGadde/Classification-and-predictive-analysis-of-road-accidents-severity)
 - <b> Data Analysis in Sql with Data visualisation in Tableau</b>
-  - [Deaths in heart failure and its contributing factors](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Deaths in heart failure and its contributing factors](https://github.com/ManushaGadde/Relation-database) 
 - <b>R studio</b>
   - [Predictive analysis of health care devices based on physical activity](https://github.com/joshmadakor1/Sentinel-Lab)
 
